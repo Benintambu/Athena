@@ -12,7 +12,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Adresse email destinataire
-    $to = "beni.ntambu@2028.ulc-icam.com"; // Remplacez par votre adresse email
+    $to = "beni.ntambu@2028.ulc-icam.com"; 
 
     // Créer l'en-tête de l'email
     $headers = "From: $email\r\n";
