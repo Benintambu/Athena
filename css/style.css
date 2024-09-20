@@ -233,7 +233,7 @@ nav>div {
 .header_cont {
     width: 90%;
     height: 65%;
-    background: url("/images/back_headers.PNG");
+    background: url("..//images/back_headers.PNG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -569,13 +569,13 @@ nav>div {
 }
 
 .it1 .item_top {
-    background-image: url('/images/img1.png');
+    background-image: url('../images/img1.png');
     background-position: center;
     background-size: cover;
 }
 
 .it2 .item_top {
-    background-image: url('/images/img2.png');
+    background-image: url('../images/img2.png');
     background-position: center;
     background-size: cover;
 }
