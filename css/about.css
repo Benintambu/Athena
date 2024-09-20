@@ -51,7 +51,7 @@
 .photo_cont {
     width: 90%;
     height: 70vh;
-    background-image: url('/images/back_header.jpg');
+    background-image: url('../images/back_header.jpg');
     background-size: cover;
     background-position: center;
     clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
