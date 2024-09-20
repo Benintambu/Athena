@@ -233,7 +233,7 @@ nav>div {
 .header_cont {
     width: 90%;
     height: 65%;
-    background: url("..//images/back_headers.PNG");
+    background: url("../images/back_headers.PNG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
